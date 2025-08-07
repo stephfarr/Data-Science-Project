@@ -1,5 +1,7 @@
 # Data Science Project
 
+Please see the obesity dataset and Python file for full details of data and code.
+
 # Executive Summary
 
 This project explores the use of **Random Forest (RF)** to identify cohorts at risk of obesity based on lifestyle and behavioural factors. It uses publicly available data to serve as a proof of concept for predictive modelling in addressing the real business challenge of obesity costs within the NHS and wider public sector, while aligning with prevention priorities for the NHS and the Locality.
