@@ -1,6 +1,6 @@
 # Data Science Project
 
-Please see the obesity dataset and Python file for full details of data and code.
+Please see the [Obesity Dataset](Obesity_Dataset.xlsx) and [Python file](Using%20Random%20Forest%20to%20Predict%20Populations%20at%20Risk%20of%20Obesity.ipynb) for full details of data and code.
 
 # Executive Summary
 
@@ -23,6 +23,7 @@ To test this approach, publicly available data from a study on obesity (Koklu, N
 RF has been chosen due to it’s ability to handle mixed data types, non-linear relationships, imbalanced data, correlated variables and has shown to have better predictive performance than other classification models (Breiman, 2001). Feature importance is also a factor in RF that is useful to decision makers in resource targeting decisions.
 
 # Data Infrasrtucture & Tools
+
 The dataset includes demographic and behavioural factors and the variable coding was provided by the study authors (Figure 1).
 
 ![Figure 1](images/Figure%201.png) 
